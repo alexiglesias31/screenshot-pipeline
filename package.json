@@ -36,7 +36,6 @@
     ]
   },
   "devDependencies": {
-    "jest": "^27.0.5",
     "jest-image-snapshot": "^4.5.0"
   }
 }
